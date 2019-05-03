@@ -464,7 +464,7 @@
         },
         {
           "stageId": "main_04-06",
-          "occPer": "USUAL"
+          "occPer": "OFTEN"
         }
       ],
       "buildingProductList": [
@@ -678,7 +678,7 @@
         },
         {
           "stageId": "main_03-08",
-          "occPer": "USUAL"
+          "occPer": "OFTEN"
         }
       ],
       "buildingProductList": [
@@ -785,7 +785,7 @@
         },
         {
           "stageId": "main_04-02",
-          "occPer": "USUAL"
+          "occPer": "OFTEN"
         }
       ],
       "buildingProductList": [
@@ -1053,7 +1053,7 @@
         },
         {
           "stageId": "main_04-04",
-          "occPer": "USUAL"
+          "occPer": "OFTEN"
         }
       ],
       "buildingProductList": []
@@ -1478,7 +1478,7 @@
       "stackIconId": null,
       "sortId": 63,
       "usage": "基本的建筑工程材料，用于罗德岛的基础设施。",
-      "obtainApproach": "主线1-12、2-1、2-3、2-4、2-5、2-6、2-7首次通关掉落",
+      "obtainApproach": "主线0-11、1-1首次通关掉落",
       "itemType": "MATERIAL",
       "stageDropList": [],
       "buildingProductList": [

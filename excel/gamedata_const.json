@@ -817,7 +817,7 @@
   "advancedGachaCrystalCost": 600,
   "completeCrystalBonus": 1,
   "initPlayerGold": 10000,
-  "initPlayerDiamondShard": 400,
+  "initPlayerDiamondShard": 500,
   "initCampaignTotalFee": 1200,
   "initRecruitTagList": [
     1,

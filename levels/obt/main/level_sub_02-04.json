@@ -330,7 +330,7 @@
         "effects": null
       },
       {
-        "tileKey": "tile_road",
+        "tileKey": "tile_rcm_crate",
         "heightType": 0,
         "buildableType": 1,
         "passableMask": 3,

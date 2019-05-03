@@ -2403,7 +2403,7 @@
         {
           "type": "GOLD",
           "id": "4001",
-          "count": 12000
+          "count": 10000
         }
       ],
       "backImagePath": null
@@ -2438,7 +2438,7 @@
         {
           "type": "GOLD",
           "id": "4001",
-          "count": 12000
+          "count": 10000
         }
       ],
       "backImagePath": null
@@ -2734,7 +2734,7 @@
     "sub_31": {
       "id": "sub_31",
       "sortId": 31,
-      "description": "在加工站生产10件家具零件",
+      "description": "在加工站生产10件家具零件(不含拆解家具)",
       "type": "SUB",
       "preMissionIds": [
         "sub_29"

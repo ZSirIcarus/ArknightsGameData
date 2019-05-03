@@ -2802,8 +2802,21 @@
         "firstPassRewards": null,
         "passRewards": null,
         "completeRewards": null,
-        "displayRewards": null,
-        "displayDetailRewards": null
+        "displayRewards": [
+          {
+            "type": "FURN",
+            "id": "furni_dropS001_theLittleMermaid_01",
+            "dropType": 1
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "FURN",
+            "id": "furni_dropS001_theLittleMermaid_01",
+            "dropType": 1
+          }
+        ]
       },
       "mainStageId": "main_00-11#f#"
     },
@@ -3709,8 +3722,21 @@
         "firstPassRewards": null,
         "passRewards": null,
         "completeRewards": null,
-        "displayRewards": null,
-        "displayDetailRewards": null
+        "displayRewards": [
+          {
+            "type": "FURN",
+            "id": "furni_dropS001_cinderella_01",
+            "dropType": 1
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "FURN",
+            "id": "furni_dropS001_cinderella_01",
+            "dropType": 1
+          }
+        ]
       },
       "mainStageId": "main_01-05#f#"
     },
@@ -4461,8 +4487,21 @@
         "firstPassRewards": null,
         "passRewards": null,
         "completeRewards": null,
-        "displayRewards": null,
-        "displayDetailRewards": null
+        "displayRewards": [
+          {
+            "type": "FURN",
+            "id": "furni_dropS001_theHonestWoodcutter_01",
+            "dropType": 1
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "FURN",
+            "id": "furni_dropS001_theHonestWoodcutter_01",
+            "dropType": 1
+          }
+        ]
       },
       "mainStageId": "main_01-08#f#"
     },
@@ -5202,8 +5241,21 @@
         "firstPassRewards": null,
         "passRewards": null,
         "completeRewards": null,
-        "displayRewards": null,
-        "displayDetailRewards": null
+        "displayRewards": [
+          {
+            "type": "FURN",
+            "id": "furni_dropS001_snowWhite_01",
+            "dropType": 1
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "FURN",
+            "id": "furni_dropS001_snowWhite_01",
+            "dropType": 1
+          }
+        ]
       },
       "mainStageId": "main_01-12#f#"
     },
@@ -6184,7 +6236,7 @@
         ],
         "displayDetailRewards": [
           {
-            "occPercent": 3,
+            "occPercent": 4,
             "type": "FURN",
             "id": "furni_dropN001_sculptureColumn_01",
             "dropType": 2
@@ -6487,8 +6539,21 @@
         "firstPassRewards": null,
         "passRewards": null,
         "completeRewards": null,
-        "displayRewards": null,
-        "displayDetailRewards": null
+        "displayRewards": [
+          {
+            "type": "FURN",
+            "id": "furni_dropS001_matchGirl_01",
+            "dropType": 1
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "FURN",
+            "id": "furni_dropS001_matchGirl_01",
+            "dropType": 1
+          }
+        ]
       },
       "mainStageId": "main_02-03#f#"
     },
@@ -7460,8 +7525,21 @@
         "firstPassRewards": null,
         "passRewards": null,
         "completeRewards": null,
-        "displayRewards": null,
-        "displayDetailRewards": null
+        "displayRewards": [
+          {
+            "type": "FURN",
+            "id": "furni_dropS001_hanselAndGretel_01",
+            "dropType": 1
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "FURN",
+            "id": "furni_dropS001_hanselAndGretel_01",
+            "dropType": 1
+          }
+        ]
       },
       "mainStageId": "main_02-05#f#"
     },
@@ -8431,8 +8509,21 @@
         "firstPassRewards": null,
         "passRewards": null,
         "completeRewards": null,
-        "displayRewards": null,
-        "displayDetailRewards": null
+        "displayRewards": [
+          {
+            "type": "FURN",
+            "id": "furni_dropS001_sleepingBeauty_01",
+            "dropType": 1
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "FURN",
+            "id": "furni_dropS001_sleepingBeauty_01",
+            "dropType": 1
+          }
+        ]
       },
       "mainStageId": "main_02-08#f#"
     },
@@ -9319,8 +9410,21 @@
         "firstPassRewards": null,
         "passRewards": null,
         "completeRewards": null,
-        "displayRewards": null,
-        "displayDetailRewards": null
+        "displayRewards": [
+          {
+            "type": "FURN",
+            "id": "furni_dropS001_peterPan_01",
+            "dropType": 1
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "FURN",
+            "id": "furni_dropS001_peterPan_01",
+            "dropType": 1
+          }
+        ]
       },
       "mainStageId": "main_02-10#f#"
     },
@@ -10178,8 +10282,21 @@
         "firstPassRewards": null,
         "passRewards": null,
         "completeRewards": null,
-        "displayRewards": null,
-        "displayDetailRewards": null
+        "displayRewards": [
+          {
+            "type": "FURN",
+            "id": "furni_dropS001_theTallowCandle_01",
+            "dropType": 1
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "FURN",
+            "id": "furni_dropS001_theTallowCandle_01",
+            "dropType": 1
+          }
+        ]
       },
       "mainStageId": "main_03-04#f#"
     },
@@ -10866,7 +10983,7 @@
             "dropType": 1
           },
           {
-            "occPercent": 2,
+            "occPercent": 3,
             "type": "MATERIAL",
             "id": "30033",
             "dropType": 2
@@ -11024,8 +11141,21 @@
         "firstPassRewards": null,
         "passRewards": null,
         "completeRewards": null,
-        "displayRewards": null,
-        "displayDetailRewards": null
+        "displayRewards": [
+          {
+            "type": "FURN",
+            "id": "furni_dropS001_theUglyDuckling_01",
+            "dropType": 1
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "FURN",
+            "id": "furni_dropS001_theUglyDuckling_01",
+            "dropType": 1
+          }
+        ]
       },
       "mainStageId": "main_03-08#f#"
     },
@@ -11295,7 +11425,7 @@
         ],
         "displayDetailRewards": [
           {
-            "occPercent": 2,
+            "occPercent": 3,
             "type": "MATERIAL",
             "id": "30023",
             "dropType": 2
@@ -11700,7 +11830,7 @@
         ],
         "displayDetailRewards": [
           {
-            "occPercent": 2,
+            "occPercent": 3,
             "type": "MATERIAL",
             "id": "30073",
             "dropType": 2
@@ -11840,8 +11970,21 @@
         "firstPassRewards": null,
         "passRewards": null,
         "completeRewards": null,
-        "displayRewards": null,
-        "displayDetailRewards": null
+        "displayRewards": [
+          {
+            "type": "FURN",
+            "id": "furni_dropS001_theFrogPrince_01",
+            "dropType": 1
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "FURN",
+            "id": "furni_dropS001_theFrogPrince_01",
+            "dropType": 1
+          }
+        ]
       },
       "mainStageId": "main_04-04#f#"
     },
@@ -12122,7 +12265,7 @@
         ],
         "displayDetailRewards": [
           {
-            "occPercent": 2,
+            "occPercent": 3,
             "type": "MATERIAL",
             "id": "30013",
             "dropType": 2
@@ -12511,8 +12654,21 @@
         "firstPassRewards": null,
         "passRewards": null,
         "completeRewards": null,
-        "displayRewards": null,
-        "displayDetailRewards": null
+        "displayRewards": [
+          {
+            "type": "FURN",
+            "id": "furni_dropS001_piedPiper_01",
+            "dropType": 1
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "FURN",
+            "id": "furni_dropS001_piedPiper_01",
+            "dropType": 1
+          }
+        ]
       },
       "mainStageId": "main_04-07#f#"
     },
@@ -13164,8 +13320,21 @@
         "firstPassRewards": null,
         "passRewards": null,
         "completeRewards": null,
-        "displayRewards": null,
-        "displayDetailRewards": null
+        "displayRewards": [
+          {
+            "type": "FURN",
+            "id": "furni_dropS001_trinity_01",
+            "dropType": 1
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "FURN",
+            "id": "furni_dropS001_trinity_01",
+            "dropType": 1
+          }
+        ]
       },
       "mainStageId": "main_04-10#f#"
     },
@@ -14162,7 +14331,7 @@
         ],
         "displayDetailRewards": [
           {
-            "occPercent": 4,
+            "occPercent": 3,
             "type": "FURN",
             "id": "furni_dropN001_generator_01",
             "dropType": 2

@@ -60,9 +60,9 @@
       "id": "CONTROL#2",
       "number": {
         "1": {
-          "type": "WORKSHOP",
+          "type": "FUNCTIONAL",
           "level": 1,
-          "count": 1
+          "count": 5
         }
       }
     },
@@ -340,7 +340,7 @@
       "id": "DORMITORY#1",
       "number": {
         "1": {
-          "type": "TRADING",
+          "type": "CONTROL",
           "level": 1,
           "count": 1
         },
@@ -8878,7 +8878,7 @@
         "comfort": 75,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "不知从哪里搜集来的饰牌。失去一切。",
-        "obtainApproach": "0-10突袭模式首次通关掉落",
+        "obtainApproach": "0-11突袭模式首次通关掉落",
         "processedProductId": "3401",
         "processedProductCount": 0,
         "processedByProductPercentage": 0,
@@ -9692,7 +9692,7 @@
         "comfort": 50,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "壁灯。造型参考了代表开始的符号。",
-        "obtainApproach": "S4-2-1掉落",
+        "obtainApproach": "S4-4掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -9714,7 +9714,7 @@
         "comfort": 50,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "壁灯。造型参考了代表生长的符号。",
-        "obtainApproach": "S4-1-3掉落",
+        "obtainApproach": "S4-3掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -9736,7 +9736,7 @@
         "comfort": 170,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "黑色的物资箱。其中的货物完好无损。",
-        "obtainApproach": "S4-3-2掉落",
+        "obtainApproach": "S4-8掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -9758,7 +9758,7 @@
         "comfort": 170,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "白色的物资箱。货物被外壳牢固的保护着。",
-        "obtainApproach": "S4-3-1掉落",
+        "obtainApproach": "S4-7掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -9780,7 +9780,7 @@
         "comfort": 170,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "橄榄绿色的物资箱。会让人产生打开箱子的欲望。",
-        "obtainApproach": "S4-2-2掉落",
+        "obtainApproach": "S4-5掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -9802,7 +9802,7 @@
         "comfort": 115,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "绿色的发电机。利用源石发电。",
-        "obtainApproach": "S4-1-2掉落",
+        "obtainApproach": "S4-2掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -9824,7 +9824,7 @@
         "comfort": 115,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "橘色的发电机。小型的发电设备。",
-        "obtainApproach": "S3-2-3掉落",
+        "obtainApproach": "S3-5掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -9890,7 +9890,7 @@
         "comfort": 75,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "被藤蔓缠绕的立柱。藤蔓没有节制的生长着。",
-        "obtainApproach": "1-6掉落",
+        "obtainApproach": "1-4掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,

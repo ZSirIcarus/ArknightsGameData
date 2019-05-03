@@ -17497,7 +17497,7 @@
   },
   "char_236_rope": {
     "name": "暗索",
-    "description": "技能可以使敌人产生<@ba.kw>位移</>可以放置于远程位",
+    "description": "技能可以使敌人产生<@ba.kw>位移</>\\n可以放置于远程位",
     "canUseGeneralPotentialItem": true,
     "potentialItemId": "p_char_236_rope",
     "team": -1,
@@ -40153,7 +40153,7 @@
   },
   "char_173_slchan": {
     "name": "崖心",
-    "description": "技能可以使敌人产生<@ba.kw>位移</>可以放置于远程位",
+    "description": "技能可以使敌人产生<@ba.kw>位移</>\\n可以放置于远程位",
     "canUseGeneralPotentialItem": true,
     "potentialItemId": "p_char_173_slchan",
     "team": 6,
